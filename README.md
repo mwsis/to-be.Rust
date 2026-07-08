@@ -26,6 +26,7 @@ Simple Rust library determining the truthyness of strings, that is whether they 
   - [Structures](#structures)
   - [Traits](#traits)
 - [Examples](#examples)
+  - [Benchmarks](#benchmarks)
 - [Project Information](#project-information)
   - [Where to get help](#where-to-get-help)
   - [Contribution guidelines](#contribution-guidelines)
@@ -241,7 +242,7 @@ Crates upon which **to-be.Rust** has runtime dependencies:
 ### Related projects
 
 * [**to-be**](https://github.com/synesissoftware/to-be) (**C**);
-* [**to-be.Python**](https://github.com/synesissoftware/to-be.Python);
+* [**py2be** (aka **to-be.Python**)](https://github.com/synesissoftware/py2be);
 * [**to_be.Ruby**](https://github.com/synesissoftware/to_be.Ruby);
 
 
